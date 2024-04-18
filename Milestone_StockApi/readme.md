@@ -21,7 +21,9 @@
   _ if (process.env.NODE_ENV == "development") {
   require("./src/configs/sync")();
   }
-- render.com'da web service oolarak deploy edildi.
+- render.com'da web service olarak deploy edildi.
+- https://fullstack-stockapp.onrender.com/api/v1/ // api'yle çalışmak için:
+  - https://fullstack-stockapp.onrender.com/api/v1/auth/login
 
 ### ERD:
 
