@@ -23,6 +23,7 @@
   }
 - render.com'da web service olarak deploy edildi.
 - https://fullstack-stockapp.onrender.com/api/v1/ // api'yle çalışmak için:
+  - https://fullstack-stockapp.onrender.com/api/v1/documents
   - https://fullstack-stockapp.onrender.com/api/v1/auth/login
 
 ### ERD:
